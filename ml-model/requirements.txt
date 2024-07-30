@@ -1,0 +1,10 @@
+joblib==1.4.2
+numpy==2.0.1
+onnx==1.16.1
+onnxconverter-common==1.14.0
+packaging==24.1
+protobuf==3.20.2
+scikit-learn==1.5.1
+scipy==1.13.1
+skl2onnx==1.17.0
+threadpoolctl==3.5.0
