@@ -1,3 +1,7 @@
 *.onnx
+*.pkl
 *.cpcache
 *.DS_Store
+*target
+*becnhmark-results
+*pycache*
