@@ -1,2 +1,0 @@
-{:deps
- {com.microsoft.onnxruntime/onnxruntime {:mvn/version "1.18.0"}}}
