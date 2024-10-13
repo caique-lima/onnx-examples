@@ -1,6 +1,6 @@
 # Python ML model
 
-This is a simple machine learning model built on top of Iris dataset. The model is trained using a Random Forest Classifier.
+This is a simple machine learning model built on top of Diabetes dataset. The model is trained using a Linear Rgression.
 
 ## How to setup the project
 
